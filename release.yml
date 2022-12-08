@@ -1,0 +1,6 @@
+artifcatfile: tomcat
+uainame: 2345678G
+appname: myapp9
+environment: UAT
+cluster: 23565
+artifactname: JenkinsWar.war
